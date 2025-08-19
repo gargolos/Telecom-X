@@ -35,11 +35,7 @@ En este repositorio se crea un modelo de aprendizaje automático para predecir c
 |  ├── Distribucion_de_clientes_que_abandonaron.png
 |  ├── Evasion_del_clientes_por_variables_categoricas.png
 |  ├── Evasion_del_clientes_por_variables_numericas.png
-│
-| # Archivos del proyecto Telecom X parte 2
-├── TelcomX_2.ipynb
-├── TelecomX_Data_prepared.csv
-└── champion.pkl
+└── 
 ```
 
 ## Descrición 
